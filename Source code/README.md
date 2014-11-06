@@ -5,5 +5,5 @@
 ### [README.md](README.md)
 本目錄的說明文件
 
-### [Hello Java world!.java](Hello Java world!.java)
+### [Hello_Java_world_.java](Hello_Java_world_.java)
 「Java 程式設計世界哈囉！」主程式來源程式碼
