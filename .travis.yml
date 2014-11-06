@@ -1,0 +1,12 @@
+language: java
+jdk:
+  - oraclejdk8
+  - oraclejdk7
+  - openjdk7
+  - openjdk6
+script: 
+  - cd 'Build_solutions/Traditional batch commands/'
+  - bash buildSoftware.bash.sh
+after_script:
+  - cd ../../
+  - java -classpath "Build solutions/Traditional batch commands/Built software" Hello_Java_world_
