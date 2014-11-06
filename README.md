@@ -1,5 +1,5 @@
-# Java 語言世界哈囉！<br />Hello Java world!
-這是個最簡單的「Java 程式語言世界哈囉！」程式  
+# Java 程式設計世界哈囉！<br />Hello Java world!
+這是個最簡單的「Java 程式設計世界哈囉！」程式  
 [https://github.com/Vdragon/Hello_Java_world_](https://github.com/Vdragon/Hello_Java_world_)
 
 ## 如何建構專案
