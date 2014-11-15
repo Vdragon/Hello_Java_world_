@@ -13,11 +13,11 @@
 2. 執行下列命令：`java -classpath "Build solutions/Traditional batch commands/Built software" Hello_Java_world_`
 
 ## 本目錄下的項目說明
-### [Built software/](Built software/)
+### [建構好的軟體/<br />Built software/](Built software/)
 建構出來的軟體
 
-### [README.md](README.md)
+### [說明文件.md<br />README.md](README.md)
 本說明文件
 
-### [buildSoftware.bash.sh](buildSoftware.bash.sh)
+### [建構軟體.bash 殼程式腳本程式.sh<br />buildSoftware.bash.sh](buildSoftware.bash.sh)
 軟體建構 Bash 腳本程式

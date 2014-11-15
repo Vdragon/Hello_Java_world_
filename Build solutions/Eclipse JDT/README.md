@@ -4,10 +4,10 @@
 ## 目錄內項目說明
 ### [Source code/](Source code/)
 
-### [Built software/](Built software/)
+### [建構出來的軟體/<br />Built software/](Built software/)
 放置建構出來的軟體的目錄
 
-### [README.md](README.md)
+### [說明文件.md<br />README.md](README.md)
 本說明文件
 
 ### [.project](.project)
