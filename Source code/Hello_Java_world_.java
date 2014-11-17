@@ -1,5 +1,5 @@
 /* 用「斜線、星號」、「星號、斜線」包住的區塊為多行註解 */
-/* Hello Java world!.java
+/* Hello_Java_world_.java
    「Java 程式設計世界哈囉！」主程式*/
 
 /* # Hello_Java_world_ 物件類別(class)
