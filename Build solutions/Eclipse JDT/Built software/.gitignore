@@ -1,3 +1,5 @@
-# Ignore Java VM bytecode
-*.class
-
+.*
+*
+!README*
+!*說明文件.*
+!.gitignore
