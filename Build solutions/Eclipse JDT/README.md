@@ -1,9 +1,7 @@
-#  Build solutions/Eclipse JDT/
-此為「Eclipse JDT」軟體建構解決方案的目錄
+#  軟體建構解決方案/Eclipse JDT 整合式開發環境/<br>Build solutions/Eclipse JDT/
+此為「Eclipse JDT 整合式開發環境」軟體建構解決方案的目錄
 
 ## 目錄內項目說明
-### [Source code/](Source code/)
-
 ### [建構出來的軟體/<br />Built software/](Built software/)
 放置建構出來的軟體的目錄
 
@@ -14,3 +12,6 @@
 Eclipse 專案檔案
 
 ### [.classpath](.classpath)
+
+### [.gitignore](.gitignore)
+Git 版本控制系統版本追蹤忽略規則
