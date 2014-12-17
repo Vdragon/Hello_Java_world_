@@ -12,6 +12,9 @@
 ### [軟體建構解決方案/<br />Build solutions/](Build solutions/)
 軟體解決方案目錄
 
+### [說明文件/<br>Documentation/](Documentation/)
+軟體的說明文件
+
 ### [專案說明文件.md<br />README.md](README.md)
 本專案的說明文件
 
