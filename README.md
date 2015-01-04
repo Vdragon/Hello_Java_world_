@@ -15,6 +15,9 @@
 ### [說明文件/<br>Documentation/](Documentation/)
 軟體的說明文件
 
+### [Resources/](Resources/)
+軟體會用到的非程式資源
+
 ### [專案說明文件.md<br />README.md](README.md)
 本專案的說明文件
 

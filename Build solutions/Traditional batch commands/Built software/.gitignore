@@ -1,3 +1,5 @@
-# Build solutions/Traditional batch commands/Built software/ 目錄的 Git 版本控制系統忽略規則 
-## 忽略可自動產生的 Java 虛擬機器 bytecode 檔案
-*.class
+.*
+*
+!README*
+!*說明文件.*
+!.gitignore

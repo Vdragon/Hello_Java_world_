@@ -16,6 +16,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>Resources</name>
+			<type>2</type>
+			<locationURI>global_project_root_directory/Resources</locationURI>
+		</link>
+		<link>
 			<name>Source code</name>
 			<type>2</type>
 			<locationURI>$%7Bglobal_project_root_directory%7D/Source%20code</locationURI>
@@ -23,21 +28,30 @@
 	</linkedResources>
 	<filteredResources>
 		<filter>
-			<id>1418412529598</id>
-			<name></name>
-			<type>6</type>
-			<matcher>
-				<id>org.eclipse.ui.ide.multiFilter</id>
-				<arguments>1.0-name-matches-true-false-*.md</arguments>
-			</matcher>
-		</filter>
-		<filter>
-			<id>1418469535129</id>
+			<id>1420385953813</id>
 			<name>Source code</name>
 			<type>21</type>
 			<matcher>
 				<id>org.eclipse.ui.ide.multiFilter</id>
 				<arguments>1.0-name-matches-false-false-*.java</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1420385953814</id>
+			<name>Source code</name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-*.md</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1420385953815</id>
+			<name>Source code</name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-.gitignore</arguments>
 			</matcher>
 		</filter>
 	</filteredResources>
