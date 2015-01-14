@@ -1,4 +1,4 @@
-#  軟體建構解決方案/Eclipse JDT 整合式開發環境/<br>Build solutions/Eclipse JDT/
+#  軟體建構解決方案/Eclipse JDT 整合式開發環境/<br>Build solutions/Eclipse JDT IDE/
 此為「Eclipse JDT 整合式開發環境」軟體建構解決方案的目錄
 
 ## 本軟體建構解決方案所依賴的額外軟體
