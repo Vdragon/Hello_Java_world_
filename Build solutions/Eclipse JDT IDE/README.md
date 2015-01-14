@@ -13,6 +13,8 @@
 
 ### [打包好的軟體/<br/>Packaged software/](Packaged software/)
 
+### [啟動設定檔/<br />Launch configurations/](Launch configurations/)
+
 ### [說明文件.md<br />README.md](README.md)
 本說明文件
 
