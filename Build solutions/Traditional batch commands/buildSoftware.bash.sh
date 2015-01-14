@@ -17,7 +17,7 @@ set -x
 javac -d "Built software/" "${global_project_root_directory}/Source code/Main_program.java"
 
 # 複製軟體資源
-cp --recursive --force --parents "${global_project_root_directory}/Resources" "Built software"
+cp --recursive --force "${global_project_root_directory}/Resources" "Built software"
 
 # 打包軟體
 jar vcfm "Packaged software/Java 程式設計世界哈囉！(Hello Java world!).jar" "${global_project_root_directory}/Packaging data/Java archive manifest.mf" -C "Built software/" .
