@@ -6,5 +6,7 @@
 
 ### [Eclipse JDT 整合式開發環境/<br />Eclipse JDT IDE/](Eclipse JDT IDE/ )
 
+### [NetBeans 整合式開發環境<br />NetBeans IDE/](NetBeans IDE/)（尚未實作完成）
+
 ### [說明文件.md<br />README.md](README.md)
 本目錄的說明文件
