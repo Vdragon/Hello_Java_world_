@@ -16,8 +16,8 @@ set -x
 # 呼叫 Java 編譯器(javac)將 Java 來源程式碼編譯為 Java 虛擬機器能載入執行的 bytecode
 javac -d "Built software/" "${global_project_root_directory}/Source code/Main_program.java"
 
-# 複製軟體翻譯資料
-cp --recursive --force "${global_project_root_directory}/Resources" "Built software/"
+# 複製軟體資源
+cp --recursive --force --parents "${global_project_root_directory}/Resources" "Built software/Resources"
 
 # 回傳 0 結束狀態代碼， 0 代表正常結束程式
 exit 0
