@@ -18,6 +18,8 @@
 ### [Resources/](Resources/)
 軟體會用到的非程式資源
 
+### [軟體打包用資料/<br />Packaging data/](Packaging data/)
+
 ### [專案說明文件.md<br />README.md](README.md)
 本專案的說明文件
 

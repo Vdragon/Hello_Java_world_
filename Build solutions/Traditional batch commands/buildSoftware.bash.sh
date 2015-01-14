@@ -18,6 +18,8 @@ javac -d "Built software/" "${global_project_root_directory}/Source code/Main_pr
 
 # 複製軟體資源
 cp --recursive --force --parents "${global_project_root_directory}/Resources" "Built software/Resources"
+# 打包軟體
+jar vcfm "Packaged software/Java 程式設計世界哈囉！(Hello Java world!).jar" "${global_project_root_directory}/Packaging data/Java archive manifest.mf" -C "Built software/" .
 
 # 回傳 0 結束狀態代碼， 0 代表正常結束程式
 exit 0
