@@ -8,5 +8,6 @@ script:
   - cd 'Build solutions/Traditional batch commands/'
   - bash buildSoftware.bash.sh
 after_script:
-  - cd ../../
-  - java -classpath "Build solutions/Traditional batch commands/Built software" Hello_Java_world_
+  - cd 'Packaged software/'
+  - java -jar "Java 程式設計世界哈囉！(Hello Java world!).jar"
+
