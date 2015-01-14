@@ -1,8 +1,12 @@
 # 軟體建構解決方案/傳統批次命令/<br />Build solutions/Traditional batch commands/ 
 這是「傳統批次命令」軟體建構解決方案的目錄
 
-## 本軟體建構解決方案所依賴的軟體
+## 本軟體建構解決方案所依賴的額外軟體
 ### GNU Bash 殼程式
+類 Unix 作業系統已經有此命令，Microsoft Windows 作業系統請安裝該平台的移植版本
+
+### GNU CoreUtils
+主要是用了 `cp` 命令，類 Unix 作業系統已經有此命令，Microsoft Windows 作業系統請安裝 [CoreUtils for Windows](http://gnuwin32.sourceforge.net/packages/coreutils.htm)。
 
 ## 如何用此軟體建構解決方案建構軟體
 1. 開啟命令列介面，將當前工作目錄(current working directory)切換到  Build solutions/Traditional batch commands/  目錄底下
