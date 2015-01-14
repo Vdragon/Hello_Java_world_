@@ -10,3 +10,5 @@ script:
 after_script:
   - cd 'Built software'
   - java Main_program
+  - LANG=en_US.UTF-8 java Main_program
+  - LANG=zh_CN.UTF-8 java Main_program
