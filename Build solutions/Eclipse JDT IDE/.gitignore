@@ -9,8 +9,6 @@
 		#排除CDT於建構專案時產生的檔案
 *.d
 *.mk
-	# Locally stored "Eclipse launch configurations"
-*.launch
 	# PDT-specific
 .buildpath
 .settings/
