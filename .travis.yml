@@ -7,7 +7,9 @@ jdk:
 script: 
   - cd 'Build solutions/Traditional batch commands/'
   - bash buildSoftware.bash.sh
+after_script:
 # Wait until https://github.com/travis-ci/travis-ci/issues/1376 is fixed
-#after_script:
 #  - cd 'Packaged software/'
 #  - java -jar "Java 程式設計世界哈囉！(Hello Java world!).jar"
+  - cd 'Built software'
+  - java Main_program
